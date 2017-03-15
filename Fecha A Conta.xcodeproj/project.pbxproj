@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EEC5BE1B1E78E3E6009682D4 /* AbertasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC5BE1A1E78E3E6009682D4 /* AbertasViewController.swift */; };
+		EEC5BE1D1E78E56C009682D4 /* CelulaMesasAbertas.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC5BE1C1E78E56C009682D4 /* CelulaMesasAbertas.swift */; };
 		EEC8CCE51E731F0D000AE592 /* NewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC8CCE41E731F0D000AE592 /* NewViewController.swift */; };
 		EEC8CCE71E735179000AE592 /* Mesa.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC8CCE61E735179000AE592 /* Mesa.swift */; };
 		EEC8CCE91E736BBB000AE592 /* Pedido.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEC8CCE81E736BBB000AE592 /* Pedido.swift */; };
@@ -38,6 +40,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EEC5BE1A1E78E3E6009682D4 /* AbertasViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AbertasViewController.swift; sourceTree = "<group>"; };
+		EEC5BE1C1E78E56C009682D4 /* CelulaMesasAbertas.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CelulaMesasAbertas.swift; sourceTree = "<group>"; };
 		EEC8CCE41E731F0D000AE592 /* NewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NewViewController.swift; sourceTree = "<group>"; };
 		EEC8CCE61E735179000AE592 /* Mesa.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Mesa.swift; sourceTree = "<group>"; };
 		EEC8CCE81E736BBB000AE592 /* Pedido.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pedido.swift; sourceTree = "<group>"; };
@@ -112,6 +116,8 @@
 				EEC8CCE81E736BBB000AE592 /* Pedido.swift */,
 				EEC8CCEA1E736BD3000AE592 /* Cliente.swift */,
 				EEE009581E70EEDE00110A2E /* Main.storyboard */,
+				EEC5BE1A1E78E3E6009682D4 /* AbertasViewController.swift */,
+				EEC5BE1C1E78E56C009682D4 /* CelulaMesasAbertas.swift */,
 				EEE0095B1E70EEDE00110A2E /* Assets.xcassets */,
 				EEE0095D1E70EEDE00110A2E /* LaunchScreen.storyboard */,
 				EEE009601E70EEDE00110A2E /* Info.plist */,
@@ -278,8 +284,10 @@
 				EEE009571E70EEDE00110A2E /* ViewController.swift in Sources */,
 				EEC8CCEB1E736BD3000AE592 /* Cliente.swift in Sources */,
 				EEE009551E70EEDE00110A2E /* AppDelegate.swift in Sources */,
+				EEC5BE1D1E78E56C009682D4 /* CelulaMesasAbertas.swift in Sources */,
 				EEC8CCE71E735179000AE592 /* Mesa.swift in Sources */,
 				EEC8CCE91E736BBB000AE592 /* Pedido.swift in Sources */,
+				EEC5BE1B1E78E3E6009682D4 /* AbertasViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
